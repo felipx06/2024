@@ -1,11 +1,23 @@
 @charset "utf-8";
 
 body{
-    background-color: pink;
+    background-image: linear-gradient(to right, pink, purple);
     color:hotpink;
     font-size: medium;
     font-family: Baskerville;
-   
-    
+    text-align: center;
 
 }
+
+h1, h2
+{
+    text-decoration: underline none;
+    color: black;
+    text-align: center;
+
+}
+
+a{
+    text-decoration: none;
+}
+
