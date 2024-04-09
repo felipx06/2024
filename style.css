@@ -17,7 +17,10 @@ h1, h2
 
 }
 
+h1#principal,h2#principal{
+   background-color: rgb(154, 73, 156);
+}
+
 a{
     text-decoration: none;
 }
-
