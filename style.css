@@ -24,3 +24,17 @@ h1#principal,h2#principal{
 a{
     text-decoration: none;
 }
+
+.par
+{
+    color: rgb(163, 33, 33);
+    font-size: 20pt;
+    font-family:Verdana;
+}
+
+.impar
+{
+    color: rgb(59, 59, 218);
+    font-size: 16pt;
+    font-family:Arial;
+}
